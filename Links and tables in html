@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <style>
+            body {
+                background-color:aliceblue;
+                font-family: sans-serif;
+            }
+            h1 {
+                text-align: center;
+              color:black 
+            }  
+            
+            
+        </style>
+        <h1>Vote for the best games on Roblox</h1>
+            
+        <form>
+            <fieldset>
+         
+         <label>Best Shooter game:</label>
+         <br><br>
+         <input type="radio" name="subject" value="Hypershot">Hypershot<br><br>
+         <input type="radio" name="subject" value="Rivals">Rivals<br><br>
+         <input type="radio" name="subject" value="Gunfight Arena">Gunfight Arena<br><br>
+         <input type="radio" name="subject" value="Arsenal">Arsenal<br><br>
+         <input type="radio" name="subject" value="Airsoft Battles">Airsoft Battles<br><br>
+         <centre><input type="submit" name="submit" value="Submit">
+
+
+        <label>Best driving game:</label>
+        <br><br>
+         <input type="radio" name="subject" value="Driving Empire">Driving Empire<br><br>
+         <input type="radio" name="subject" value="Drift Paradise">Drift Paradise<br><br>
+         <input type="radio" name="subject" value="Drive World">Drive World<br><br>
+         <input type="radio" name="subject" value="Vehicle Legends">Vehicle Legends<br><br>
+         <input type="radio" name="subject" value="Car Crushers 2">Car Crushers 2<br><br>
+         <centre><input type="submit" name="submit" value="Submit">
+
+           <label>Best obby game:</label>
+           <br><br>
+           <input type="radio" name="subject" value="Obby But you're on a bike">Obby but you're on a bike<br><br>
+         <input type="radio" name="subject" value="Tower of Hell">Tower of Hell<br><br>
+         <input type="radio" name="subject" value="Afk or Play Obby UGC">Afk or Play Obby UGC<br><br>
+         <input type="radio" name="subject" value="Obby for UGC">Obby for UGC<br><br>
+         <input type="radio" name="subject" value="Mega Fun Obby">Mega Fun Obby<br><br>
+         <centre><input type="submit" name="submit" value="Submit">
+
+            </fieldset>
+             
+        </form>
+    </head>
+</html>
