@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <style>
+            .text1 {
+                color:chocolate;
+                font-family:'Courier New', Courier, monospace;
+
+            }
+            .p1 {
+                color:darkblue;
+                font-size: 20px;
+            }
+        </style>
+    </head>
+        <body>
+            <h1>Text Styling in HTML</h1>
+            <p class="text1">Welcome to Codingal</p>
+            <p class="p1">Welcome to Codingal</p>
+        </body>
+        </html>
