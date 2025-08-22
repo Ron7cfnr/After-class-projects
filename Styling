@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            html {
+                background-color: black;
+                color: white;
+                font-family: arial;
+            }
+            h1 {
+                font-size:large;
+            }
+            p{
+                font-size: medium;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Styling in CSS</h1>
+        <p>This is the result</p>
+    </body>
+</html>
